@@ -3,7 +3,8 @@
 
 
 # 💫About Me:
-I am currently learning 
+-  Bachelor of Engineering in CSE (VTU)
+-  Aim: Excel as a full-stack developer
 
 
 ## 🌐 Contact:
